@@ -1,10 +1,13 @@
 {
-    "serverstatus":"true",
-    "noticemode":"true",
-    "dataclearmode":"false",
-    "servermeassage":"Wait We Are Working On a new Update !",
-    "opentime":" Just wait few more times 🙂",
+    "Status": true,
+    "version": 2,
+    "Dlib": false,
     "libs":"https://github.com/replitadvik/ArorA/raw/refs/heads/main/ArorA.zip",
-    "notice_title":"Welcome Vip Mod",
-    "notice_body":""
+    "serverstatus": "true",
+    "noticemode": "true",
+    "dataclearmode": "false",
+    "servermeassage": "Wait We Are Working On a new Update !",
+    "opentime": " Just wait few more times 🙂",
+    "notice_title": "Welcome Vip Mod",
+    "notice_body": ""
 }
